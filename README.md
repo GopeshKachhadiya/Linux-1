@@ -10,6 +10,11 @@ Linux Lab 1 represents an externally exposed Linux server with a misconfigured S
 The lab is designed to be solved in a black-box penetration testing scenario and focuses on realistic misconfigurations commonly found in enterprise environments.
 
 ---
+## Lab Links
+
+- Download Linux-1 : https://drive.google.com/drive/folders/11kZdrDnq_vXvQVlchMj9MeyhAyeyUW22?usp=drive_link
+- Documentation for Linux-1 With Walkthrough: https://drive.google.com/file/d/1sEMaauP_jIeu_CvYPWvRZ7Q4vXVPUKfD/view?usp=drive_link
+---
 
 ## Lab Objectives
 
