@@ -185,7 +185,7 @@ Do not deploy these configurations in production environments.
 ## Created By
 
 - Name: Gopesh Kachhadiya
-- Role: Junior Penetration Tester / AI Security Enthusiast
+- Role: Junior Penetration Tester 
 - Purpose: Internship Project and Skill Demonstration
 - Domain: Offensive Security and AI Penetration Testing
 - This lab was created as part of an offensive cybersecurity internship project focused on realistic attack simulations and hands-on learning.
