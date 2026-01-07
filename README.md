@@ -12,7 +12,7 @@ The lab is designed to be solved in a black-box penetration testing scenario and
 ---
 ## Lab Links
 
-- Download Linux-1 : https://drive.google.com/drive/folders/11kZdrDnq_vXvQVlchMj9MeyhAyeyUW22?usp=drive_link
+- Download Linux-1 : https://mega.nz/file/TRQmGJIC#syfm00N_z1xcUVrsYSTzyW3Qv0fc5CRCW8UDLKvysKM
 - Documentation for Linux-1 With Walkthrough: https://drive.google.com/file/d/1sEMaauP_jIeu_CvYPWvRZ7Q4vXVPUKfD/view?usp=drive_link
 ---
 
