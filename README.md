@@ -10,10 +10,14 @@ Linux Lab 1 represents an externally exposed Linux server with a misconfigured S
 The lab is designed to be solved in a black-box penetration testing scenario and focuses on realistic misconfigurations commonly found in enterprise environments.
 
 ---
-## Lab Links
+## Important Links
 
 - Download Linux-1 : https://mega.nz/file/TRQmGJIC#syfm00N_z1xcUVrsYSTzyW3Qv0fc5CRCW8UDLKvysKM
-- Documentation for Linux-1 With Walkthrough: https://drive.google.com/file/d/1sEMaauP_jIeu_CvYPWvRZ7Q4vXVPUKfD/view?usp=drive_link
+- Documentation for Linux-1 With Walkthrough: https://mega.nz/file/mUIF3Z5K#SI4cw2OkS7f0PBjqXAOe1pKNRuLyzyb-k5fkpK0lZoM
+- Bruteforce Wordlist:
+  1. User name wordlist:https://mega.nz/file/bBgnjTAT#6oXhVVIwlLo6p5B2iltI4ixC50yIiKtaQvqq8kLk_fg
+  2. Password wordlist: https://mega.nz/file/qF5RHCpJ#f0ggoGrMh0jHhgupBxS3Jnv7DxIjzF5hjUqMdm4IX7s
+
 ---
 
 ## Lab Objectives
