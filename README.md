@@ -182,7 +182,10 @@ sudo chmod 600 /root/root.txt
 This lab is created strictly for educational and ethical penetration testing purposes.
 Do not deploy these configurations in production environments.
 
-## Author
+## Created By
 
-Created By Gopesh Kachhadiya
+Name: Gopesh Kachhadiya
+Role: Junior Penetration Tester / AI Security Enthusiast
+Purpose: Internship Project and Skill Demonstration
+Domain: Offensive Security and AI Penetration Testing
 This lab was created as part of an offensive cybersecurity internship project focused on realistic attack simulations and hands-on learning.
